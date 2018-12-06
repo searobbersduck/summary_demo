@@ -1,4 +1,6 @@
 .idea/
 */ckpt
-data
-!data/*.py
+data/ckpt
+data/summary_data
+data/file_0*
+data/xxx.*
